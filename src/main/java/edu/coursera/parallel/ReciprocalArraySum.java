@@ -5,13 +5,12 @@ import java.util.concurrent.RecursiveAction;
 /**
  * Class wrapping methods for implementing reciprocal array sum in parallel.
  */
-public final class ReciprocalArraySums {
+public final class ReciprocalArraySum {
 
     /**
      * Default constructor.
      */
     private ReciprocalArraySum() {
-
     }
 
     /**
